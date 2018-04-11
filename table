@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Module 02</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <table border="1">
+      <tr><td colspan="3">HTML TABLE EXAMPLE</td>
+        <!--
+<td></td>
+        <td></td>
+-->
+        <!-- first row -->
+      <tr><td><img src="mealplan.jpg" alt="mealplan" width="200"></td>
+        <td><h2>Meal Planner</h2></td>
+        <td><h2>Recipe Index #:</h2></td>
+      <tr><th>Week Starting</th>
+        <th>02/15/2018</th>
+        <th>Instructions</th>
+      <tr><th><b>Day of The Week</b></th>
+        <th>Recipe</th>
+        <td rowspan="8">Add the name of the recipe under the column Recipe Name </td>
+      <tr><td>Monday</td>
+        <td>Spinach Feta</td>
+        <!--td></td-->
+      <tr><td>Tuesday</td>
+        <td>My New Recipe</td>
+        <!--td></td-->
+      <tr><td>Wednesday</td>
+        <td></td>
+        <!--td></td-->
+      <tr><td>Thursday</td>
+        <td></td>
+        <!--td></td-->
+      <tr><td>Friday</td>
+        <td></td>
+        <!--td></td-->
+      <tr><td>Saturday</td>
+        <td></td>
+        <!--td></td-->
+      <tr><td>Sunday</td>
+        <td></td>
+        <!--td></td-->
+    </table>
+    </body>
+    </html>
